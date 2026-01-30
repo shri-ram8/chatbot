@@ -1,0 +1,2 @@
+Machine Learning is a subset of AI that learns patterns from data.
+Deep Learning uses neural networks.

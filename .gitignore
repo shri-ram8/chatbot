@@ -1,2 +1,18 @@
-node_modules
+# Python
+__pycache__/
+*.pyc
 .env
+datascience/
+
+# Virtual environments
+venv/
+
+# Vector DB
+jarvis_memory_db/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
